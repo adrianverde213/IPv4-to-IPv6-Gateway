@@ -24,6 +24,10 @@ Requires Linux with IPv6 connectivity and `gcc`.
     gcc dual_stack_gateway.c -o gateway
     ./gateway
 
+## Testing
+
+Tested with the Windows client provided by the course, configured to connect to the server on port 22227 and send command `07#`. The received page was displayed by the client and saved on the server as `index.html` (viewed with `lynx`).
+
 ## Limitations
 
 - Only command `07#` is implemented. The target host is hardcoded to `ipv6.test-ipv6.com`, because the host originally assigned for this command was unreachable.
