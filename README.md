@@ -1,5 +1,3 @@
-# Dual-Stack-Gateway-with-Packet-Manipulation-
-
 # Dual-Stack Gateway (IPv4 → IPv6)
 
 Academic mini-project for the *Internet Protocols* course (Technical University of Cluj-Napoca, 2026).
