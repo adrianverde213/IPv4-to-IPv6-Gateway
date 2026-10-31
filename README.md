@@ -1,4 +1,4 @@
-# Dual-Stack Gateway (IPv4 → IPv6)
+# IPv4-to-IPv6 Gateway
 
 Academic mini-project for the *Internet Protocols* course (Technical University of Cluj-Napoca, 2026).
 
